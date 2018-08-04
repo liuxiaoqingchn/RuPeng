@@ -1,0 +1,6 @@
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\密闭类静态类及扩展方法\MyEx\bin\Debug\MyEx.dll
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\密闭类静态类及扩展方法\MyEx\bin\Debug\MyEx.pdb
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\密闭类静态类及扩展方法\MyEx\obj\Debug\MyEx.csprojResolveAssemblyReference.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\密闭类静态类及扩展方法\MyEx\obj\Debug\MyEx.csproj.CoreCompileInputs.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\密闭类静态类及扩展方法\MyEx\obj\Debug\MyEx.dll
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\密闭类静态类及扩展方法\MyEx\obj\Debug\MyEx.pdb
