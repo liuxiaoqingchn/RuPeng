@@ -1,0 +1,7 @@
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\反射\3.Method和Property的主要成员\bin\Debug\3.Method和Property的主要成员.exe.config
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\反射\3.Method和Property的主要成员\bin\Debug\3.Method和Property的主要成员.exe
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\反射\3.Method和Property的主要成员\bin\Debug\3.Method和Property的主要成员.pdb
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\反射\3.Method和Property的主要成员\obj\Debug\3.反射调用示例.csprojResolveAssemblyReference.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\反射\3.Method和Property的主要成员\obj\Debug\3.反射调用示例.csproj.CoreCompileInputs.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\反射\3.Method和Property的主要成员\obj\Debug\3.Method和Property的主要成员.exe
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\反射\3.Method和Property的主要成员\obj\Debug\3.Method和Property的主要成员.pdb

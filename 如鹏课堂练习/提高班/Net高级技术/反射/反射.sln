@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.反射1", "1.反射1\1.反射1.csproj", "{3DF6999E-2F1B-4058-9140-D03E07B0B08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.反射2", "2.反射2\2.反射2.csproj", "{7017F7A1-C07A-4293-9334-06D748A47143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.反射调用示例", "3.Method和Property的主要成员\3.反射调用示例.csproj", "{061A9220-CC57-466B-8223-589848CE4505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.模拟PropertyGrid", "模拟PropertyGrid\4.模拟PropertyGrid.csproj", "{F8AE91F1-6CD0-40C1-BF42-ED85E6BE13A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.反射案例：对象的拷贝", "5.反射案例：对象的浅拷贝\5.反射案例：对象的拷贝.csproj", "{B4CCE30C-745C-4578-851B-9D95C7B7CE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF6999E-2F1B-4058-9140-D03E07B0B08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF6999E-2F1B-4058-9140-D03E07B0B08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF6999E-2F1B-4058-9140-D03E07B0B08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF6999E-2F1B-4058-9140-D03E07B0B08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7017F7A1-C07A-4293-9334-06D748A47143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7017F7A1-C07A-4293-9334-06D748A47143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7017F7A1-C07A-4293-9334-06D748A47143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7017F7A1-C07A-4293-9334-06D748A47143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{061A9220-CC57-466B-8223-589848CE4505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061A9220-CC57-466B-8223-589848CE4505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061A9220-CC57-466B-8223-589848CE4505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061A9220-CC57-466B-8223-589848CE4505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8AE91F1-6CD0-40C1-BF42-ED85E6BE13A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AE91F1-6CD0-40C1-BF42-ED85E6BE13A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AE91F1-6CD0-40C1-BF42-ED85E6BE13A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AE91F1-6CD0-40C1-BF42-ED85E6BE13A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CCE30C-745C-4578-851B-9D95C7B7CE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CCE30C-745C-4578-851B-9D95C7B7CE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CCE30C-745C-4578-851B-9D95C7B7CE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CCE30C-745C-4578-851B-9D95C7B7CE87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4187F11-F1DD-4717-97B6-C2B9F23BDD5F}
+	EndGlobalSection
+EndGlobal
