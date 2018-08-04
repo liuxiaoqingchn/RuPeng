@@ -1,0 +1,10 @@
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\HttpClient\Test1\bin\Debug\Test1.exe.config
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\HttpClient\Test1\bin\Debug\Test1.exe
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\HttpClient\Test1\bin\Debug\Test1.pdb
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\HttpClient\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\HttpClient\Test1\obj\Debug\Test1.Form1.resources
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\HttpClient\Test1\obj\Debug\Test1.Properties.Resources.resources
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\HttpClient\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\HttpClient\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\HttpClient\Test1\obj\Debug\Test1.exe
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\HttpClient\Test1\obj\Debug\Test1.pdb
