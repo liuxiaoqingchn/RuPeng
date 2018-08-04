@@ -1,0 +1,7 @@
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\匿名方法\bin\Debug\匿名方法.exe.config
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\匿名方法\bin\Debug\匿名方法.exe
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\匿名方法\bin\Debug\匿名方法.pdb
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\匿名方法\obj\Debug\匿名方法.csprojResolveAssemblyReference.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\匿名方法\obj\Debug\匿名方法.csproj.CoreCompileInputs.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\匿名方法\obj\Debug\匿名方法.exe
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\匿名方法\obj\Debug\匿名方法.pdb

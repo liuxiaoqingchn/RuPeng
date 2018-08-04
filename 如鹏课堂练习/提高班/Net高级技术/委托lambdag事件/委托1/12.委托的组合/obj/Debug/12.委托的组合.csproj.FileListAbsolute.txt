@@ -1,0 +1,7 @@
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\12.委托的组合\bin\Debug\12.委托的组合.exe.config
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\12.委托的组合\bin\Debug\12.委托的组合.exe
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\12.委托的组合\bin\Debug\12.委托的组合.pdb
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\12.委托的组合\obj\Debug\12.委托的组合.csprojResolveAssemblyReference.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\12.委托的组合\obj\Debug\12.委托的组合.csproj.CoreCompileInputs.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\12.委托的组合\obj\Debug\12.委托的组合.exe
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\委托lambdag事件\委托1\12.委托的组合\obj\Debug\12.委托的组合.pdb
