@@ -1,0 +1,10 @@
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\WaitHandle\WaitHandle\bin\Debug\netcoreapp1.1\WaitHandle.deps.json
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\WaitHandle\WaitHandle\bin\Debug\netcoreapp1.1\WaitHandle.runtimeconfig.json
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\WaitHandle\WaitHandle\bin\Debug\netcoreapp1.1\WaitHandle.runtimeconfig.dev.json
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\WaitHandle\WaitHandle\bin\Debug\netcoreapp1.1\WaitHandle.dll
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\WaitHandle\WaitHandle\bin\Debug\netcoreapp1.1\WaitHandle.pdb
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\WaitHandle\WaitHandle\obj\Debug\netcoreapp1.1\WaitHandle.csprojResolveAssemblyReference.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\WaitHandle\WaitHandle\obj\Debug\netcoreapp1.1\WaitHandle.csproj.CoreCompileInputs.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\WaitHandle\WaitHandle\obj\Debug\netcoreapp1.1\WaitHandle.AssemblyInfo.cs
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\WaitHandle\WaitHandle\obj\Debug\netcoreapp1.1\WaitHandle.dll
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\Net并发编程\WaitHandle\WaitHandle\obj\Debug\netcoreapp1.1\WaitHandle.pdb
