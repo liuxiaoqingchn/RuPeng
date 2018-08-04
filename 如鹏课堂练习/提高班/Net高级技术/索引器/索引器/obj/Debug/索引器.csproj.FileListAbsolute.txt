@@ -1,0 +1,7 @@
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\索引器\索引器\bin\Debug\索引器.exe.config
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\索引器\索引器\bin\Debug\索引器.exe
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\索引器\索引器\bin\Debug\索引器.pdb
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\索引器\索引器\obj\Debug\索引器.csprojResolveAssemblyReference.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\索引器\索引器\obj\Debug\索引器.csproj.CoreCompileInputs.cache
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\索引器\索引器\obj\Debug\索引器.exe
+G:\桌面\如鹏课堂练习\提高班\Net高级技术\索引器\索引器\obj\Debug\索引器.pdb
